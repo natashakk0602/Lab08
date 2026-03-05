@@ -8,7 +8,7 @@ public class CustomList {
 
     public CustomList() {
         this.cities = new ArrayList<>();
-    }
+    } // preparing project for TDD workflow
 
     public void addCity(City city) {
         cities.add(city);
